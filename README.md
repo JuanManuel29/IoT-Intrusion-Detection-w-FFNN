@@ -6,4 +6,10 @@ This repository contains the implementation of an Intrusion Detection System (ID
 - Supports various IoT protocols and communication standards.
 
 ## Link to kaggle dataset
-- https://www.kaggle.com/datasets/subhajournal/iotintrusion/data  
+- https://www.kaggle.com/datasets/subhajournal/iotintrusion/data
+
+## Authors:
+Juan Manuel Uribe Quintero
+
+## Contact:
+For any inquiries or issues regarding the project, feel free to contact me at juanma.uribe@urosario.edu.co
