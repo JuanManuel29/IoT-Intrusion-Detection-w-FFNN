@@ -4,3 +4,6 @@ This repository contains the implementation of an Intrusion Detection System (ID
 ## Features
 - Utilizes FFNN architecture for efficient intrusion detection.
 - Supports various IoT protocols and communication standards.
+
+## Link to kaggle dataset
+- https://www.kaggle.com/datasets/subhajournal/iotintrusion/data  
